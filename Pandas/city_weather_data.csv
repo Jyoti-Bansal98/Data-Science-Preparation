@@ -1,0 +1,13 @@
+﻿day,city,temp,windspeed,event
+01-01-2025,new york,32,6,rain
+01-02-2025,new york,36,7,sunny
+01-03-2025,new york,28,34,snow
+01-04-2025,new york,33,23,sunny
+01-01-2025,mumbai,67,45,sunny
+01-02-2025,mumbai,54,3,fog
+01-03-2025,mumbai,54,44,fog
+01-04-2025,mumbai,34,42,rain
+01-01-2025,paris,23,45,sunny
+01-02-2025,paris,44,2,cloudy
+01-03-2025,paris,33,34,cloudy
+01-04-2025,paris,24,25,cloudy
